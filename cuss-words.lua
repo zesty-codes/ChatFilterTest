@@ -1,0 +1,21 @@
+[
+	"sex", "fuck", "cock", "femboy", "bitch", "ass", "clit", "fap", "mf",
+	"df", "sf", "fag", "faggot", "pregnant", "fertilization", "fetus",
+	"abortion", "gestation", "birth control", "sexual", "intercourse",
+	"menopause", "menstruation", "reproduction", "ejaculat",
+	"jerk off", "jerkoff", "jack off", "jackoff",
+	"nigg", "fag", "kike", "jigg", "slave", "cotton farm", "cottonfarm",
+	"human trafficking", "labor", "swastika", "auschwittz", "auschwitts",
+	"auschwits", "bondage", "forced", "abuse", "oppression", "retard",
+	"idiot", "loser", "twat", "prick", "pussy", "jigg", "digg",
+	"wank", "sucker", "cyka", "blyat", "stfu", "shut up", "shutup",
+	"i own u", "keep barking", "ez", "geek", "douche", "dumbass", "bastard",
+	"yap", "womp", "nerd", "dummy", "dumb", "ur mom", "your mom",
+	"daddy", "mommy",
+	"doggystyle", "creampie", "arse", "bastard", "bloody",
+	"bbc", "bwc", "kys",
+	"damn", "porn", ".com", ".net", ".org", "kiss",
+	"kill", "yourself", "shoot yourself", "kill yourself",
+	"burn yourself", "stab yourself", "commit suicide",
+	"end your life", "end ur life"
+]
